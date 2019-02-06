@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-Jan 31 10:12 p.m. in Provo 33 degrees, clear
-=======
-<<<<<<< HEAD
-Jan 23 9:55 a.m. in Provo 24 degrees, cloudy
-=======
-Jan 2 8:04 p.m. in Provo 33 degrees, clear
->>>>>>> master
->>>>>>> master
+Feb 5 in Provo 36 degrees, cloudy
