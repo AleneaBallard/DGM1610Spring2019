@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Feb 6 in Provo 24 degrees, cloudy
+Feb 8 in Provo 18 degrees, mostly cloudy
 =======
 Feb 5 in Provo 36 degrees, cloudy
 >>>>>>> master
